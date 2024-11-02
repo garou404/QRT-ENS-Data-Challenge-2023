@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+ipykernel
+matplotlib
+nbformat
