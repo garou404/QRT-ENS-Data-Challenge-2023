@@ -1,0 +1,9 @@
+pre-processing step
+check correlation matrix
+check the coefficient importance with scaling/reg linear regression
+do data splitting again
+use different loss functions
+redo what I did but check the test error this time
+check NN
+check RF for regression
+fill nan with 0 ?
